@@ -21,3 +21,5 @@ FAQ Accordion: Provides answers to common questions about the course, such as le
 HTML: Utilizes Bootstrap for responsive design and includes semantic elements for better accessibility.
 
 CSS: Custom styles for components with media queries for mobile responsiveness.
+
+#Responsive in all devices:
