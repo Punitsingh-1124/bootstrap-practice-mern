@@ -1,8 +1,6 @@
 # bootstrap-practice-mern
 
-Overview of the MERN Stack Course Webpage
-
-
+#Overview of the MERN Stack Course Webpage:
 Header: Contains a logo and buttons for WhatsApp and phone contact.
 
 Inquiry Modal: A form for booking a free class with fields for name, email, and phone.
@@ -17,8 +15,6 @@ Curriculum Tabs: A tabbed interface showcasing the course curriculum and case st
 
 FAQ Accordion: Provides answers to common questions about the course, such as learning outcomes and career support.
 
-Code Structure
-
+#Code Structure
 HTML: Utilizes Bootstrap for responsive design and includes semantic elements for better accessibility.
-
 CSS: Custom styles for components with media queries for mobile responsiveness.
