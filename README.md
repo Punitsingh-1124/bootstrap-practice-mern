@@ -22,4 +22,9 @@ HTML: Utilizes Bootstrap for responsive design and includes semantic elements fo
 
 CSS: Custom styles for components with media queries for mobile responsiveness.
 
+![Screenshot 2024-11-02 134909](https://github.com/user-attachments/assets/58481004-30cb-4004-b479-4c8e219fd597)
+![Screenshot 2024-11-02 134933](https://github.com/user-attachments/assets/85cb5279-43d3-4640-9794-9a6a892af24c)
+
 #Responsive in all devices:
+
+![Screenshot 2024-11-02 135231](https://github.com/user-attachments/assets/8e00d7cf-14b8-4dc0-81be-0ea2ac63618b)
